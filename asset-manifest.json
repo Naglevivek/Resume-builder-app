@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Resume-builder-app/static/css/main.70956fea.css",
+    "main.js": "/Resume-builder-app/static/js/main.39c7649f.js",
+    "static/media/resume.svg": "/Resume-builder-app/static/media/resume.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "/Resume-builder-app/index.html",
+    "main.70956fea.css.map": "/Resume-builder-app/static/css/main.70956fea.css.map",
+    "main.39c7649f.js.map": "/Resume-builder-app/static/js/main.39c7649f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70956fea.css",
+    "static/js/main.39c7649f.js"
+  ]
+}
